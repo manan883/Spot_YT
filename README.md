@@ -15,3 +15,6 @@ Overall using GPT4 as a baseline for the project cut down development time by a 
 
 ### Modifications done by me
 The main modification I made was hiding secure data by passing in enviorement variables alongside placing the playlist function into a function so that it could be passed into main.
+
+### Time to complete project
+This took me about 2 hours to make functional and 30 minutes to run it with a GUI. Most of this time was spent getting the api's set up
